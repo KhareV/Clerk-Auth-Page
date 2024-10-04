@@ -2,6 +2,10 @@
 
 This is an example of a Next.js app that uses [Clerk](https://clerk.com) for authentication and user management. This project goes along with my [YouTube Tutorial]().
 
+![OpenAI Image Generator Screenshot](x.png)
+![OpenAI Image Generator Screenshot](y.png)
+![OpenAI Image Generator Screenshot](x.png)
+
 ## Usage
 
 Go to your https://clerk.com dashboard and click on `Developer->API Keys` to copy your keys. Create a file named `.env.local` and add the following:
