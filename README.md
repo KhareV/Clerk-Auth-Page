@@ -4,7 +4,7 @@ This is an example of a Next.js app that uses [Clerk](https://clerk.com) for aut
 
 ![OpenAI Image Generator Screenshot](x.png)
 ![OpenAI Image Generator Screenshot](y.png)
-![OpenAI Image Generator Screenshot](x.png)
+![OpenAI Image Generator Screenshot](z.png)
 
 ## Usage
 
