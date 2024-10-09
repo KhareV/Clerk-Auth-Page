@@ -1,6 +1,5 @@
 # Clerk Authentication App
 
-This is an example of a Next.js app that uses [Clerk](https://clerk.com) for authentication and user management. This project goes along with my [YouTube Tutorial]().
 
 ![OpenAI Image Generator Screenshot](x.png)
 ![OpenAI Image Generator Screenshot](y.png)
